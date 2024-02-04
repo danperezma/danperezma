@@ -1,6 +1,6 @@
 # Hi there I'm Daniel Perez | PERAPRO👋
 
-![My banner pciture](https://i.imgur.com/cAVZzNh.png)
+![My banner pciture](https://i.imgur.com/FdbWKHJ.png)
 
 <!--
 **danperezma/danperezma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
